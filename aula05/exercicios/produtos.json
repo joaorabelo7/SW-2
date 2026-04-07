@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Mouse Sem fio",
+        "preco": 150,
+        "quantidade": 15
+    },
+    {
+        "nome": "Monitor OLED",
+        "preco": 890.9,
+        "quantidade": 5
+    },
+    {
+        "nome": "Headset Sem fio",
+        "preco": 220,
+        "quantidade": 10
+    }
+]
